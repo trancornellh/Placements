@@ -5,7 +5,7 @@ Placements will be coded in Python. Push Dungeon was coded in Java.
 
 ## :hammer_and_wrench: Technologies and Tools Used
 
-OS: Windos | IDE: Visual Studio | Language: Python
+OS: Windows | IDE: Visual Studio | Language: Python
 
 ## :gear: Credits
 
