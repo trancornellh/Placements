@@ -14,3 +14,6 @@ Placements will be coded in Python. Push Dungeon was coded in Java.
 ## :gear: Credits
 
 Created by trancornellh and CaylinCat ~
+
+![](https://img.shields.io/github/followers/trancornellh?label=trancornellh&style=social) 
+![](https://img.shields.io/github/followers/CaylinCat?label=CaylinCat&style=social)
